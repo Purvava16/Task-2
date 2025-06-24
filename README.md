@@ -20,6 +20,7 @@ Line Chart / Pareto Chart
 Visualizes which sub-categories drive the most revenue. “Chairs” and “Phones” top the list, while items like “Labels” and “Fasteners” contribute very little.
 
 Storytelling & Business Insights:
+
 1️.Customer Segment Focus
 The Consumer segment generates nearly 47% of total sales, making it the primary revenue driver.
 Despite having lower overall sales, Home Office has a notable share in certain regions like the West — a potential area for targeted promotions.
