@@ -1,18 +1,20 @@
 # Task-2 : Data Visualization and Storytelling
 
 Dashboard Summary: Superstore Sales Analysis
+
 Visual Elements Used:
+
 Clustered Bar Chart - Sum of Sales by Segment and Region
-Shows how sales are distributed across different customer segments (Consumer, Corporate, Home Office) and across regions (Central, East, South, West).
+: Shows how sales are distributed across different customer segments (Consumer, Corporate, Home Office) and across regions (Central, East, South, West).
 
 Donut Chart - Sum of Sales by Segment
-Highlights the overall share of each segment in total sales. "Consumer" is the largest segment, followed by "Corporate" and "Home Office".
+: Highlights the overall share of each segment in total sales. "Consumer" is the largest segment, followed by "Corporate" and "Home Office".
 
 Treemap Chart - Sum of Sales by Category and Sub-Category
-Breaks down sales by broader product categories (Furniture, Office Supplies, Technology) and further into sub-categories like Phones, Tables, Binders, etc.
+: Breaks down sales by broader product categories (Furniture, Office Supplies, Technology) and further into sub-categories like Phones, Tables, Binders, etc.
 
 Line Chart - Sum of Sales by Sub-Category
-Visualizes which sub-categories drive the most revenue. “Chairs” and “Phones” top the list, while items like “Labels” and “Fasteners” contribute very little.
+: Visualizes which sub-categories drive the most revenue. “Chairs” and “Phones” top the list, while items like “Labels” and “Fasteners” contribute very little.
 
 Storytelling & Business Insights:
 
